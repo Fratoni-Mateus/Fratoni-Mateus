@@ -23,7 +23,7 @@
 ### 🛠️ Courses
 #### So far I have finished the following courses:
 
-📘 [Udacity - Intro to programming nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
+📘 [Udacity - Intro to programming nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) <br>
 📗 [FCC - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
 ### 📚 Books
