@@ -8,7 +8,7 @@
 #### You can check out my HTML portfolio here: https://responsive-web-design-bay.vercel.app/
 
 ### 🌱 Learning
-#### I am currently learning HTML and CSS on https://www.freecodecamp.org
+#### I am currently learning Javascript on https://www.freecodecamp.org
 
 
 ### 📊 What I am familiar with
@@ -25,6 +25,7 @@
 
 📘 [Udacity - Intro to programming nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) <br>
 📗 [FCC - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+<!--📙 [FCC - Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)-->
 
 ### 📚 Books
 #### So far I have read the following books:
