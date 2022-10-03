@@ -4,8 +4,8 @@
 ### 🚀About me
 #### 👨‍🎓 My name is Mateus Fratoni (he/him) I am a Civil Engineer graduate with experience in the renewable energy field. I am currently studying web-development in order to change my career. 📖 I am passionate about learning how things work and how they are built (for my fellow curious friends I strongly recommend 🌐💻 Wikipedia and Youtube for this). In my free time I enjoy 🎮 playing video games, 🍽️ cooking, 🔥🍖 making barbecue and 📺 watching movies,
 
-### Portfolio
-#### You can check out my HTML portfolio here: https://responsive-web-design-bay.vercel.app/
+<!-- ### Portfolio
+#### You can check out my HTML portfolio here: https://responsive-web-design-bay.vercel.app/ -->
 
 ### 🌱 Learning
 #### I am currently learning Fullstack Development at Tera https://somostera.com/cursos/full-stack-development
