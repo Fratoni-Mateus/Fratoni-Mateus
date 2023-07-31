@@ -8,7 +8,7 @@
 #### You can check out my HTML portfolio here: https://responsive-web-design-bay.vercel.app/ -->
 
 ### 🌱 Learning
-#### I am currently learning Fullstack Development at The Odin project https://somostera.com/cursos/full-stack-development
+#### I am currently learning Fullstack Development at The Odin project https://www.theodinproject.com/
 
 
 ### 📊 What I am familiar with
