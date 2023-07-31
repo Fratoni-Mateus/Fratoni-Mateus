@@ -8,7 +8,7 @@
 #### You can check out my HTML portfolio here: https://responsive-web-design-bay.vercel.app/ -->
 
 ### 🌱 Learning
-#### I am currently learning Fullstack Development at Tera https://somostera.com/cursos/full-stack-development
+#### I am currently learning Fullstack Development at The Odin project https://somostera.com/cursos/full-stack-development
 
 
 ### 📊 What I am familiar with
@@ -36,12 +36,13 @@
 
 📘 [Udacity - Intro to programming nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) <br>
 📗 [FCC - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+📙 [Tera - Full stack Web Development](https://somostera.com/)
 <!--📙 [FCC - Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)-->
 
 ### 📚 Books
 #### So far I have read the following books:
 
-🔎📖 Reading --> The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas; <br>
+<!-- 🔎📖 Reading --> The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas; <br> -->
 📕 The clean coder: A code of Conduct for Professional Programmers - Robet C. Martin
 
 <!--
