@@ -35,7 +35,7 @@
 #### So far I have finished the following courses:
 
 📘 [Udacity - Intro to programming nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) <br>
-📗 [FCC - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+📗 [FCC - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)<br>
 📙 [Tera - Full stack Web Development](https://somostera.com/)
 <!--📙 [FCC - Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)-->
 
