@@ -42,7 +42,7 @@
 ### 📚 Books
 #### So far I have read the following books:
 
-<!-- 🔎📖 Reading --> The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas; <br> -->
+<!-- 🔎📖 Reading The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas; <br> -->
 📕 The clean coder: A code of Conduct for Professional Programmers - Robet C. Martin
 
 <!--
